@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TickerDesktopApp", "TickerDesktopApp\TickerDesktopApp.csproj", "{5E6E996B-C811-4F3E-A8C7-96AD5B157123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{41830AF8-938D-43D0-BB2D-DDE5C960ACA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E6E996B-C811-4F3E-A8C7-96AD5B157123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6E996B-C811-4F3E-A8C7-96AD5B157123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6E996B-C811-4F3E-A8C7-96AD5B157123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6E996B-C811-4F3E-A8C7-96AD5B157123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41830AF8-938D-43D0-BB2D-DDE5C960ACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41830AF8-938D-43D0-BB2D-DDE5C960ACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41830AF8-938D-43D0-BB2D-DDE5C960ACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41830AF8-938D-43D0-BB2D-DDE5C960ACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E3EC6A-384B-4C42-8157-333649CB4AF3}
+	EndGlobalSection
+EndGlobal

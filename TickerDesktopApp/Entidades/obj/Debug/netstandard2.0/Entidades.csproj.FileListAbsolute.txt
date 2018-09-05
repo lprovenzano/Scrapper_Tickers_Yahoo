@@ -1,0 +1,9 @@
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\obj\Debug\netstandard2.0\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Luca_Provenzano\source\repos\TickerDesktopApp\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
